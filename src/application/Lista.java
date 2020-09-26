@@ -13,8 +13,6 @@ public class Lista {
         lista.add("Jean");
         lista.add("Táina");
         lista.add("Thomas");
-        lista.add("Ana Laura");
-        lista.add("Miguel Lucca");
         System.out.println(lista);
         System.out.println(lista.lastIndexOf("Thomas"));
         System.out.println(lista.remove("Jean"));
